@@ -1,0 +1,2 @@
+$ vim index.html
+$ git commit -a -m 'Create new footer [issue 53]'
